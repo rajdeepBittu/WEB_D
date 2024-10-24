@@ -1,0 +1,2 @@
+block line :- take the whole width of the screen;
+inline :- take the only that much width that is required;
